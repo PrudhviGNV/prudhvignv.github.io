@@ -19,5 +19,4 @@
 ✔️ Education\
 ✔️ Contact me
 
-visit:
-https://prudhvignv.github.io
+# visit: https://prudhvignv.github.io
